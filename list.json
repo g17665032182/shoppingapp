@@ -1,0 +1,25 @@
+{"resultcode":"200",
+   "reason":"Success",
+    "result":{
+        "data":[
+        {"id":"1",
+		"title":"DENIM SLIM JEANS",
+		"price":"220.00",
+		"photo":"../../assets/img/Layer6@2x.png",
+		},{
+		"id":"2",
+		"title":"ALL　STARS SHOES",
+		"price":"365.00",
+		"photo":"../../assets/img/Layer7@2x.png",
+		},{
+		"id":"3",
+		"title":"DENIM SLIM JEANS",
+		"price":"220.00",
+		"photo":"../../assets/img/Layer8@2x.png",
+		}],
+        "totalNum":"306",
+        "pn":"1",
+        "rn":"3",
+    },
+    "error_code":"0",
+}
